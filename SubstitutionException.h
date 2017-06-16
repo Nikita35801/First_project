@@ -10,3 +10,4 @@ public:
 	SubstitutionException(ErrorType T):t(T) {};
 	const char* what();
 };
+// This is testing conflict Merge
