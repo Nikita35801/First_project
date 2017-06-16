@@ -1,3 +1,4 @@
+// This is testing conflict
 #pragma once
 #include <exception>
 class SubstitutionException: public std::exception
