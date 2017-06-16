@@ -6,9 +6,9 @@
 using namespace std;
 int main()
 {
-	int OnceMore; // ���������� ��� ����������� ����� ����� ������
-	string line; // ����������, �������� ��������� ������
-	string table; // ����������, �������� ������� ������
+	int OnceMore;
+	string line;
+	string table;
 	int Encription,cipher, shift;
 	cout<<"Choose: cipher shift-0  or  cipher simple substitution-1"<<endl;
 	cin>>cipher;
